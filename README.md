@@ -20,7 +20,7 @@ Developer profile for collaborators and AI assistants.
 
 ```yaml
 profile_version: 1
-owner: LwXxx
+owner: koo
 github: lwx2284899
 role: developer
 preferred_language: zh-CN
